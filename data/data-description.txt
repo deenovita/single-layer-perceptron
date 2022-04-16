@@ -1,0 +1,4 @@
+The source of the dataset can be looked up on this website:
+https://www.kaggle.com/datasets/uciml/mushroom-classification from UCI Machine Learning.
+
+Dataset has 22 atributes of mushroom, and 2 classes (edible and poisonous).
